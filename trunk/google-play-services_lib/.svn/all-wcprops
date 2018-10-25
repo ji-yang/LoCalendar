@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/475/trunk/google-play-services_lib
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/444/trunk/google-play-services_lib/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/444/trunk/google-play-services_lib/AndroidManifest.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/444/trunk/google-play-services_lib/README.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/444/trunk/google-play-services_lib/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/475/trunk/google-play-services_lib/project.properties
+END
+proguard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/444/trunk/google-play-services_lib/proguard.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/670/trunk/LocalendarTest
+END
+ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/477/trunk/LocalendarTest/ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/378/trunk/LocalendarTest/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/326/trunk/LocalendarTest/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/476/trunk/LocalendarTest/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/326/trunk/LocalendarTest/.project
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/477/trunk/LocalendarTest/local.properties
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/326/trunk/LocalendarTest/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/473/trunk/LocalendarTest/AndroidManifest.xml
+END

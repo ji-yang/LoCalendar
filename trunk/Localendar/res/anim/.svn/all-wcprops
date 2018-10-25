@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/513/trunk/Localendar/res/anim
+END
+right_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/260/trunk/Localendar/res/anim/right_in.xml
+END
+right_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/470/trunk/Localendar/res/anim/right_out.xml
+END
+up_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/513/trunk/Localendar/res/anim/up_in.xml
+END
+up_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/470/trunk/Localendar/res/anim/up_out.xml
+END
+down_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/470/trunk/Localendar/res/anim/down_in.xml
+END
+down_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/513/trunk/Localendar/res/anim/down_out.xml
+END
+left_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/Localendar/res/anim/left_in.xml
+END
+left_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/470/trunk/Localendar/res/anim/left_out.xml
+END

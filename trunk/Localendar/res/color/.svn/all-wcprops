@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/290/trunk/Localendar/res/color
+END
+text_view_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/263/trunk/Localendar/res/color/text_view_settings.xml
+END
+cancel_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/267/trunk/Localendar/res/color/cancel_button.xml
+END
+add_button_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/265/trunk/Localendar/res/color/add_button_text.xml
+END
+confirm_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/267/trunk/Localendar/res/color/confirm_button.xml
+END
+tab_text_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/290/trunk/Localendar/res/color/tab_text_color.xml
+END

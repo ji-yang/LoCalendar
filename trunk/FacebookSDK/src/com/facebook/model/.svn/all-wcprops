@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model
+END
+GraphObjectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/GraphObjectList.java
+END
+PropertyName.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/PropertyName.java
+END
+GraphPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/GraphPlace.java
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/JsonUtil.java
+END
+GraphObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/GraphObject.java
+END
+GraphLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/GraphLocation.java
+END
+OpenGraphObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/OpenGraphObject.java
+END
+GraphMultiResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/GraphMultiResult.java
+END
+CreateGraphObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/CreateGraphObject.java
+END
+GraphUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/GraphUser.java
+END
+OpenGraphAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/model/OpenGraphAction.java
+END

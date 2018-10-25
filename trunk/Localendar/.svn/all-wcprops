@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/675/trunk/Localendar
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/387/trunk/Localendar/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/447/trunk/Localendar/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/155/trunk/Localendar/.project
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/474/trunk/Localendar/local.properties
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/387/trunk/Localendar/lint.xml
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Localendar/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/668/trunk/Localendar/AndroidManifest.xml
+END
+ic_launcher-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/155/trunk/Localendar/ic_launcher-web.png
+END
+android.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/515/trunk/Localendar/android.jar
+END
+android-support-v4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/514/trunk/Localendar/android-support-v4.jar
+END
+ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/370/trunk/Localendar/ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/381/trunk/Localendar/build.xml
+END

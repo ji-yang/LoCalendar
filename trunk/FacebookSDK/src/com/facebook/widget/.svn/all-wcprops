@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget
+END
+GraphObjectAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/GraphObjectAdapter.java
+END
+FacebookDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/FacebookDialog.java
+END
+FriendPickerFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/FriendPickerFragment.java
+END
+FacebookFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/FacebookFragment.java
+END
+WebDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/WebDialog.java
+END
+SimpleGraphObjectCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/SimpleGraphObjectCursor.java
+END
+PickerFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/PickerFragment.java
+END
+UserSettingsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/UserSettingsFragment.java
+END
+LoginButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/LoginButton.java
+END
+GraphObjectPagingLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/GraphObjectPagingLoader.java
+END
+PlacePickerFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/PlacePickerFragment.java
+END
+GraphObjectCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/GraphObjectCursor.java
+END
+ProfilePictureView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/widget/ProfilePictureView.java
+END

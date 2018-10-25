@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/674/trunk/Localendar/res/layout
+END
+tab_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/269/trunk/Localendar/res/layout/tab_map.xml
+END
+search_result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/631/trunk/Localendar/res/layout/search_result.xml
+END
+event_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/344/trunk/Localendar/res/layout/event_detail.xml
+END
+search_event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/trunk/Localendar/res/layout/search_event.xml
+END
+main_actionbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/464/trunk/Localendar/res/layout/main_actionbar.xml
+END
+autocomplete_result_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/341/trunk/Localendar/res/layout/autocomplete_result_list_item.xml
+END
+add_event_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/513/trunk/Localendar/res/layout/add_event_dialog.xml
+END
+addevent_actionbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/463/trunk/Localendar/res/layout/addevent_actionbar.xml
+END
+about_us.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/583/trunk/Localendar/res/layout/about_us.xml
+END
+sign_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/568/trunk/Localendar/res/layout/sign_in.xml
+END
+tab_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/520/trunk/Localendar/res/layout/tab_settings.xml
+END
+circle_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/499/trunk/Localendar/res/layout/circle_member.xml
+END
+event_listitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/579/trunk/Localendar/res/layout/event_listitem.xml
+END
+facebook_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/580/trunk/Localendar/res/layout/facebook_fragment.xml
+END
+alarm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/674/trunk/Localendar/res/layout/alarm.xml
+END
+choose_day_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/trunk/Localendar/res/layout/choose_day_dialog.xml
+END
+calendar_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/467/trunk/Localendar/res/layout/calendar_fragment.xml
+END
+appstart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/310/trunk/Localendar/res/layout/appstart.xml
+END
+mainframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/627/trunk/Localendar/res/layout/mainframe.xml
+END
+tab_calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/342/trunk/Localendar/res/layout/tab_calendar.xml
+END

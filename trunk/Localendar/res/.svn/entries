@@ -1,0 +1,76 @@
+10
+
+dir
+675
+http://comp3111handroid.googlecode.com/svn/trunk/Localendar/res
+http://comp3111handroid.googlecode.com/svn
+
+
+
+2014-05-07T12:54:37.142319Z
+674
+jeremy.yangji@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6e385ed8-77c6-a1b5-9d71-b316007c340f
+
+drawable-mdpi
+dir
+
+layout
+dir
+
+color
+dir
+
+values-sw720dp-land
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+drawable-xhdpi
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+xml
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+

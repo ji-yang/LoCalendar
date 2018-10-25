@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook
+END
+RequestAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/RequestAsyncTask.java
+END
+FacebookServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookServiceException.java
+END
+FacebookSdkVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookSdkVersion.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/Session.java
+END
+AccessTokenSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/AccessTokenSource.java
+END
+TestSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/TestSession.java
+END
+RequestOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/RequestOutputStream.java
+END
+AppLinkData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/AppLinkData.java
+END
+FacebookRequestError.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookRequestError.java
+END
+ProgressNoopOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/ProgressNoopOutputStream.java
+END
+UiLifecycleHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/UiLifecycleHelper.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/Response.java
+END
+AuthorizationClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/AuthorizationClient.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/Settings.java
+END
+ProgressOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/ProgressOutputStream.java
+END
+AppEventsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/AppEventsConstants.java
+END
+AccessToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/AccessToken.java
+END
+NonCachingTokenCachingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/NonCachingTokenCachingStrategy.java
+END
+NativeAppCallAttachmentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/NativeAppCallAttachmentStore.java
+END
+FacebookAuthorizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookAuthorizationException.java
+END
+RequestProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/RequestProgress.java
+END
+GetTokenClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/GetTokenClient.java
+END
+HttpMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/HttpMethod.java
+END
+TokenCachingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/TokenCachingStrategy.java
+END
+FacebookBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookBroadcastReceiver.java
+END
+SessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/SessionState.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/LoginActivity.java
+END
+SessionDefaultAudience.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/SessionDefaultAudience.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/Request.java
+END
+InsightsLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/InsightsLogger.java
+END
+FacebookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookException.java
+END
+FacebookOperationCanceledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookOperationCanceledException.java
+END
+NativeAppCallContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/NativeAppCallContentProvider.java
+END
+SharedPreferencesTokenCachingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/SharedPreferencesTokenCachingStrategy.java
+END
+RequestBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/RequestBatch.java
+END
+SessionLoginBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/SessionLoginBehavior.java
+END
+FacebookGraphObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookGraphObjectException.java
+END
+LegacyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/LegacyHelper.java
+END
+AppEventsLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/AppEventsLogger.java
+END
+LoggingBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/LoggingBehavior.java
+END
+FacebookDialogException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/519/trunk/FacebookSDK/src/com/facebook/FacebookDialogException.java
+END

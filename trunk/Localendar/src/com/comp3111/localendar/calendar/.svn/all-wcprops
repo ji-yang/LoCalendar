@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/673/trunk/Localendar/src/com/comp3111/localendar/calendar
+END
+DayChooseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/637/trunk/Localendar/src/com/comp3111/localendar/calendar/DayChooseActivity.java
+END
+DayCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/467/trunk/Localendar/src/com/comp3111/localendar/calendar/DayCell.java
+END
+AlarmReceiverActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/668/trunk/Localendar/src/com/comp3111/localendar/calendar/AlarmReceiverActivity.java
+END
+CalendarSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/634/trunk/Localendar/src/com/comp3111/localendar/calendar/CalendarSearch.java
+END
+MyCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/673/trunk/Localendar/src/com/comp3111/localendar/calendar/MyCalendar.java
+END
+EventDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/647/trunk/Localendar/src/com/comp3111/localendar/calendar/EventDetailActivity.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/631/trunk/Localendar/src/com/comp3111/localendar/calendar/SearchResult.java
+END
+CalendarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/467/trunk/Localendar/src/com/comp3111/localendar/calendar/CalendarView.java
+END
+EditEventActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/470/trunk/Localendar/src/com/comp3111/localendar/calendar/EditEventActivity.java
+END
+AddEventActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/653/trunk/Localendar/src/com/comp3111/localendar/calendar/AddEventActivity.java
+END
